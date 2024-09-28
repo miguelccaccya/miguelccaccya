@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Miguel Ccaccya</h1>
-<h3 align="center">A passionate data analyst aspiring to data scientis from Perú.</h3>
+<h1 align="center">Sobre mí</h1>
+<h3 align="center">Soy un analista de datos y aspirante a data scientist, apasionado por la implementación de soluciones basadas en datos e inteligencia artificial.</h3>
 
-- 💬 Ask me about **Python, SQL Server, Power BI, Microsoft Azure, Git**
+- 💬 Pregúntame sobre **Python, SQL Server, Power BI, Microsoft Azure**
 
-- 📫 How to reach me **miguel.ccaccya.c@gmail.com**
+- 📫 Contáctame **miguel.ccaccya.c@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/miguelccaccya/](https://www.linkedin.com/in/miguelccaccya/)
+- 📄 Conoce mi experiencia [https://www.linkedin.com/in/miguelccaccya/](https://www.linkedin.com/in/miguelccaccya/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
